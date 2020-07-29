@@ -1,0 +1,22 @@
+body {
+    background-color:snow;
+}
+.dev-color {
+    color:burlywood;
+    font-weight: bold;
+}
+.dev-color-underline{
+    font-weight: lighter;
+
+}
+.nav-text-style {
+    font-family: 'Viga', sans-serif;
+}
+
+.jmbt-head {
+    text-align: center;
+    font-family: 'Asap Condensed', sans-serif;
+    background-color: snow;
+}
+
+/*Button Sosial Media*/
